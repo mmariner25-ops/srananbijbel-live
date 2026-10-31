@@ -19,3 +19,28 @@
 
 /* Version 0.2 translation controls and parallel reading */
 .translation-control{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:inherit}.translation-control select{background:transparent;color:inherit;border:1px solid #9997;border-radius:7px;padding:7px;max-width:110px}.translation-caption{font-size:13px;opacity:.7}.parallel-reading{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.parallel-column{min-width:0}.parallel-column h3{font-size:14px;opacity:.75;margin:0 0 18px}.parallel-verse{font-size:var(--reader-size);line-height:1.7;margin:0 0 12px;overflow-wrap:anywhere}.parallel-verse sup{font-size:12px;margin-right:7px;opacity:.65}@media(max-width:650px){.parallel-reading{gap:12px}.parallel-verse{font-size:calc(var(--reader-size) * .83)}.reader-tools{flex-wrap:wrap}}
+
+/* v0.2 navigation refinements */
+.top-inner{position:relative}
+.top-nav{justify-content:center}
+.top-navigate{color:var(--accent)!important;border:1px solid var(--border)!important;border-radius:9px!important;padding:10px 17px!important;white-space:nowrap}
+.top-navigate:hover{background:var(--accent-light)}
+.edge-chapter-controls{display:none}
+@media (hover:hover) and (pointer:fine) and (min-width:761px){
+ .edge-chapter-controls{display:block}
+ .edge-chapter{position:fixed;top:50%;transform:translateY(-50%);z-index:7;width:52px;height:110px;border:1px solid var(--border);background:var(--paper);color:var(--accent);font-size:40px;opacity:0;transition:opacity .18s ease,background .18s ease;box-shadow:0 3px 15px #00000012}
+ .edge-prev{left:0;border-radius:0 14px 14px 0}
+ .edge-next{right:0;border-radius:14px 0 0 14px}
+ .edge-chapter:hover,.edge-chapter:focus-visible{opacity:1;background:var(--accent-light)}
+ .edge-chapter:disabled{display:none}
+ .edge-chapter::before{content:"";position:absolute;top:-60px;bottom:-60px;width:35px}
+ .edge-prev::before{left:0}
+ .edge-next::before{right:0}
+}
+@media(max-width:760px){
+ .top-nav{display:flex;position:absolute;left:50%;transform:translateX(-50%);width:auto;z-index:1}
+ .top-navigate{font-size:11px!important;padding:8px!important;max-width:135px;overflow:hidden;text-overflow:ellipsis}
+ .brand{z-index:2}
+ .brand small{max-width:115px;overflow:hidden;text-overflow:ellipsis}
+ .top-actions{z-index:2}
+}
