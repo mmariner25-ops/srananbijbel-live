@@ -1,0 +1,116 @@
+{
+  "books": 5,
+  "chapters": 187,
+  "verses": 5852,
+  "notes": 2544,
+  "sourceParagraphsAccountedFor": 8991,
+  "characterInventoryPreserved": true,
+  "websiteNumberingDifferences": [],
+  "repairs": [
+    [
+      "Genesis",
+      752,
+      "split embedded Scripture/commentary"
+    ],
+    [
+      "Genesis",
+      17,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Genesis",
+      35,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      89,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      136,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Genesis",
+      469,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      528,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Genesis",
+      868,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      898,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      1068,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Genesis",
+      1252,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      1346,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Genesis",
+      1370,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      1660,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      1791,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      1878,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      2102,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      2596,
+      "rejoin Scripture continuation"
+    ],
+    [
+      "Genesis",
+      2657,
+      "rejoin commentary continuation"
+    ],
+    [
+      "Exodus",
+      1415,
+      "split embedded Scripture/commentary"
+    ],
+    [
+      "Exodus",
+      2004,
+      "split embedded Scripture/commentary"
+    ]
+  ]
+}

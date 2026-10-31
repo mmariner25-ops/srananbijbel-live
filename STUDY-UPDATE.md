@@ -1,19 +1,24 @@
-# Study page update
+# Old Testament commentary update
 
-The Bible reader is at `/`; the new commentary page is at `/study`.
-Both use the same reader and book/chapter/verse navigator. Navigation links keep the current book and chapter. Language, theme and text size persist between pages. The Bible-text toggle remembers its setting.
+This complete project includes all supplied Old Testament commentary, all 150 Psalms, the existing Pentateuch, and the existing New Testament.
 
-The Study page includes Patton's 27 New Testament books, 260 chapters and 2,814 notes. It uses the first occurrence of 2 John from the supplied commentary document. Scripture quotations come from that same document so that its verse numbering matches its commentary. These are shown or hidden with “Bijbeltekst tonen.” The Bible reader's translation data is unchanged.
+There are 37 OT commentary books, 864 OT chapters and 11,083 OT notes. Chronicles has no supplied commentary; both books display a note linking to 1 and 2 Kings. With the NT, there are 1,124 commentary chapters and 13,897 notes.
 
-## Update your repository
+## Update and preview
 
-1. Extract this ZIP.
-2. Copy `app/Reader.tsx`, `app/StudyContent.tsx`, `app/page.tsx`, `app/reader.css`, the `app/study/` folder and the `public/commentary/` folder into your existing repository, replacing matching files.
-3. Commit and push the changes to GitHub. Your existing hosting provider can then build the update as usual.
-4. Open `/study?book=40&chapter=1`. Check navigation, the Bible-text toggle, phone layout and dark mode before announcing it.
+1. Keep the `study-commentary` branch selected in GitHub Desktop.
+2. Copy the contents of this project folder into the existing repository folder and replace matching files. Keep the repository folder itself.
+3. Commit and push to the branch, then check its preview before merging into `main`.
+4. Test `/study?book=6&chapter=1`, `/study?book=19&chapter=150`, `/study?book=39&chapter=4` and `/study?book=13&chapter=1`.
 
-There are no new package dependencies. This update does not implement offline commentary downloads in the separate app.
+The shared navigator, themes, text size and remembered Bible-text toggle remain. Quotes come from the commentary source, so they stay paired with their notes. Bible translation files have not been changed. Chapter data loads only when opened.
 
-## Text comparison
+`OT-commentary-review.html` is a standalone review copy for all 37 supplied OT books. Open it directly without running the website. Source extraction and conversion details are retained in `commentary-preparation/`, outside public website assets. The standalone Esther document is used; the Scripture-only Esther copy found after Nehemiah is retained separately.
 
-The current website SRN agrees with the commentary's endings of 2 Corinthians 13 (13 verses) and 3 John (15 verses). Three chapter differences were found: Luke 9 is missing verse 24 in the website data; 1 Peter 3 is missing verse 7; John 1 has 52 verses in the website and 51 in the commentary document. No Bible text has been silently corrected. Study uses its source quotations throughout, rather than mixing numbering systems.
+## Validation and editorial limits
+
+All supplied chapters and source verse sequences are checked. All commentary note ranges are within their source verses. All nonempty source paragraphs in the new uploads are accounted for, and source character inventories are preserved, ignoring whitespace and reconstructing verse labels. Four embedded verses and four inline notes were separated, 16 Scripture continuations and three commentary continuations were rejoined. A comma in the 1 Samuel 24:22 label is accepted as source numbering; the text is unchanged.
+
+Some Psalm superscriptions are part of unnumbered opening text; source numbered verses can begin at 2 or 3. Source numbering is retained. The closing verse of 1 Samuel 24 is verse 23 in the commentary source, whereas the current website ends at verse 22. No silent mapping or Bible-text correction was applied.
+
+Production build and data checks pass. Final phone layout and browser interactions should be reviewed in the branch preview. Nothing is published by this ZIP.
