@@ -80,3 +80,18 @@
 .study-introduction{margin:24px 0}.study-introduction summary{cursor:pointer;font-weight:600}.study-introduction p{margin:16px 0}
 
 .commentary-download-links{display:flex;gap:8px;flex-wrap:wrap}.download-body h3{margin-top:30px}.download-dialog{max-height:90dvh;overflow-y:auto}
+/* Matthew Henry selection and display within STUDIE only */
+.study-source-picker{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:0 0 22px;font:600 14px system-ui}.study-source-picker select{font:inherit;max-width:100%;padding:9px 12px;border-radius:7px;border:1px solid #8887;background:var(--background,transparent);color:inherit}.henry-commentary{white-space:pre-wrap;overflow-wrap:anywhere}.henry-commentary p{margin:0 0 1.2em}.henry-commentary h2,.henry-commentary h3{font-size:1.12em;margin:1.5em 0 .65em}.henry-commentary blockquote{white-space:pre-wrap}
+
+/* Navigation prominence: STUDIE centered within reading column */
+.toolbar-navigate{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:48px;padding:11px 18px;border:2px solid var(--accent);border-radius:11px;background:var(--accent-light);color:var(--accent);font-size:16px;font-weight:750;max-width:none;overflow:visible;text-overflow:clip;cursor:pointer}
+.toolbar-navigate:hover{filter:brightness(.97)}
+.toolbar-navigate:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.toolbar-navigate span{margin-left:0}
+.study-navigation{display:flex;justify-content:center;margin:-14px auto 24px}
+.study-navigation .toolbar-navigate{min-height:62px;padding:14px 25px;font-size:21px;max-width:100%;white-space:normal}
+.navigation-book-icon{font-size:25px;line-height:1}
+@media(max-width:760px){.toolbar-navigate{max-width:none;min-height:48px;font-size:15px;padding:10px 14px;white-space:normal}.study-navigation{margin:-12px auto 22px}.study-navigation .toolbar-navigate{font-size:18px;min-height:54px;padding:11px 17px}}
+
+/* Identify every Matthew Henry Scripture quotation while scrolling. */
+.henry-scripture-reference{font:700 15px/1.4 system-ui,sans-serif;color:var(--accent);letter-spacing:.01em;margin:0 0 12px;padding:0 0 10px;border-bottom:1px solid currentColor;white-space:normal}
