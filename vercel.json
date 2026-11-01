@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {
+      "source": "/resources/patton/v1/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET, HEAD, OPTIONS" }
+      ]
+    }
+  ]
+}
