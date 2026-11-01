@@ -1,0 +1,151 @@
+{
+  "suppliedBooks": 32,
+  "suppliedChapters": 677,
+  "notes": 8539,
+  "sourceVerses": 15537,
+  "nonemptySourceParagraphs": 25997,
+  "sourceCharacterInventoriesPreserved": true,
+  "missing": [
+    "1 Chronicles",
+    "2 Chronicles"
+  ],
+  "esther": "Standalone ESTER.doc used; Scripture-only Esther appended to Nehemiah retained separately.",
+  "psalmNumbering": "Source superscriptions often occur as unnumbered chapter opening text; numbered verses may begin at 2 or 3. No renumbering applied.",
+  "repairs": [
+    [
+      "2 Samuël-paragraphs.json",
+      1091,
+      "Scripture continuation"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      813,
+      "recover embedded verse"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      1549,
+      "separate inline commentary"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      2128,
+      "recover embedded verse"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      290,
+      "Scripture continuation"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      837,
+      "Scripture continuation"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      900,
+      "Scripture continuation"
+    ],
+    [
+      "DEM PSALM-paragraphs.json",
+      2854,
+      "Scripture continuation"
+    ],
+    [
+      "ESTER-paragraphs.json",
+      50,
+      "Scripture continuation"
+    ],
+    [
+      "EZEKIËL - MALACHI-paragraphs.json",
+      4462,
+      "separate inline commentary"
+    ],
+    [
+      "EZEKIËL - MALACHI-paragraphs.json",
+      4105,
+      "Scripture continuation"
+    ],
+    [
+      "EZRA-paragraphs.json",
+      24,
+      "Scripture continuation"
+    ],
+    [
+      "II KONINGEN-paragraphs.json",
+      1108,
+      "Scripture continuation"
+    ],
+    [
+      "JOB-paragraphs.json",
+      191,
+      "recover embedded verse"
+    ],
+    [
+      "JOB-paragraphs.json",
+      427,
+      "separate inline commentary"
+    ],
+    [
+      "NEHEMIA-paragraphs.json",
+      14,
+      "commentary continuation"
+    ],
+    [
+      "NEHEMIA-paragraphs.json",
+      109,
+      "commentary continuation"
+    ],
+    [
+      "NEHEMIA-paragraphs.json",
+      214,
+      "Scripture continuation"
+    ],
+    [
+      "NEHEMIA-paragraphs.json",
+      324,
+      "Scripture continuation"
+    ],
+    [
+      "NEHEMIA-paragraphs.json",
+      600,
+      "Scripture continuation"
+    ],
+    [
+      "PREDIKER - KLAADLIEDEREN-paragraphs.json",
+      4521,
+      "separate inline commentary"
+    ],
+    [
+      "PREDIKER - KLAADLIEDEREN-paragraphs.json",
+      4326,
+      "Scripture continuation"
+    ],
+    [
+      "PREDIKER - KLAADLIEDEREN-paragraphs.json",
+      4393,
+      "Scripture continuation"
+    ],
+    [
+      "PREDIKER - KLAADLIEDEREN-paragraphs.json",
+      5132,
+      "Scripture continuation"
+    ],
+    [
+      "PREDIKER - KLAADLIEDEREN-paragraphs.json",
+      5261,
+      "commentary continuation"
+    ],
+    [
+      "Richteren-paragraphs.json",
+      220,
+      "recover embedded verse"
+    ],
+    [
+      "Richteren-paragraphs.json",
+      415,
+      "Scripture continuation"
+    ]
+  ]
+}
