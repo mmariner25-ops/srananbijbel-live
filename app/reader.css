@@ -95,3 +95,35 @@
 
 /* Identify every Matthew Henry Scripture quotation while scrolling. */
 .henry-scripture-reference{font:700 15px/1.4 system-ui,sans-serif;color:var(--accent);letter-spacing:.01em;margin:0 0 12px;padding:0 0 10px;border-bottom:1px solid currentColor;white-space:normal}
+
+.xref-trigger {
+  margin-inline: .25em;
+  padding: 0 .25em;
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: .3em;
+  color: inherit;
+  font: 600 .65em system-ui, sans-serif;
+  cursor: pointer;
+}
+.xref-dialog {
+  position: fixed;
+  margin: auto;
+  width: min(36rem, calc(100% - 2rem));
+  max-height: 85dvh;
+  overflow: auto;
+}
+.xref-dialog::backdrop { background: rgb(0 0 0 / .5); }
+.xref-list { padding: 1rem; }
+.xref-item { padding-block: .45rem; border-bottom: 1px solid currentColor; }
+.xref-item button {
+  color: inherit;
+  background: transparent;
+  border: 0;
+  font: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.xref-item p { margin: .45rem 0; }
+.xref-credit { font-size: .8rem; }
+.xref-credit a { color: inherit; }
