@@ -1,0 +1,1320 @@
+{
+  "name": "Ester",
+  "id": "EST",
+  "number": 17,
+  "expectedChapters": 10,
+  "source": "NEHEMIA-paragraphs.json",
+  "introduction": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [
+        {
+          "text": "Koningin Wasti lasi hem grani",
+          "beforeVerse": 1,
+          "sourceParagraph": 579
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now a ben pasa so na ini dem dei foe Ahasveros (disi de da Ahasveros disi ben de kownoe abra wan hondro nanga twenti na sebi distrikt foe Indië te leki Ethiopië:)",
+          "sourceParagraphs": [
+            580
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Na ini dem dei dati, di kownoe Ahasveros ben sidon na tapoe da kownoe-stoeroe foe hem kownoekondre, disi ben de na ini da paleisi foe Susan,",
+          "sourceParagraphs": [
+            581
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Na di foe drie jari di a ben de kownoe, a ben meki wan fesa gi ala dem fesiman nanga dem dinari foe hem; da makti foe Perzië nanga Medië, dem fesiman nanga dem bigi man foe dem distrikt ben de na hem fesi;",
+          "sourceParagraphs": [
+            582
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Di a ben sori dem goedoe foe hem glori kownoekondrenanga da bigi nem foe hem grani foeroe dei langa; a ben de wan hondro nanga aiti tenti dei langa.",
+          "sourceParagraphs": [
+            583
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "En di dem dei disi ben kaba, da kownoe ben meki wan fesa sebi dei langa gi da heri pipel disi ben de na ini da paleisi na Susan, dem bigiwan nanga dem pikinwan, na ini da opo presi foe da djari foe da kownoe paleisi.",
+          "sourceParagraphs": [
+            584
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Dem ben hanga weti, groen, nanga blauw garden disi dem ben fasi nanga titei foe fini linnen nanga paars na sorfoe linga nanga pilari foe marmer; dem bedi ben de foe gowtoe nanga sorfoe, en dem ben sidon na tapoe wan gron foe redi nanga blauw nanga weti nanga blaka marmer.",
+          "sourceParagraphs": [
+            585
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En dem ben gi dem sani foe dringi na ini gowtoe kan (aladem kan ben abi dem egi fasi; wan no ben gersi trawan), en foeroe wini foe da kownoe ben de, bikasi da kownoe ben de wan goedoeman.",
+          "sourceParagraphs": [
+            586
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "En dem ben meki wan wet foe dringi; dem no ben kan dwingi wan soema; bikasi so da kownoe ben komanderi dem ofsiri foe hem oso, dati dem ben sa doe dati so leki ibri man ben wani.",
+          "sourceParagraphs": [
+            587
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "So srefi koningin Wasti ben hori wan fesa gi dem oema na ini da kownoe oso disi ben de foe kownoe Ahasveros.",
+          "sourceParagraphs": [
+            588
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Na di foe sebi dei, di da hati foe da kownoe ben kom breiti nanga wini, a ben komanderi Mehuman, Bizzeta, Charbona, Bigta, Abagta, Zetar nanga Karkas, dem sebi dinari disi ben dini na fesi foe kownoe Ahasveros,",
+          "sourceParagraphs": [
+            589
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Foe tjari koningin Wasti kom na fesi foe da kownoe nanga hem koningin kroon, foe sori da heri pipel nanga hem fesiman fa a de moi foe si, bikasi a ben de moi foe loekoe na hem tapoe.",
+          "sourceParagraphs": [
+            590
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Ma koningin Wasti no ben wani kom di dem dinari ben tjari da komanderi foe da kownoe kom; foe dat'ede da kownoe hati ben bron toemoesi, en hem hati ben faja na hem ini.",
+          "sourceParagraphs": [
+            591
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Dan da kownoe ben taki gi dem koniman disi ben sabi demtem taki: (bikasi so wan fasi da kownoe ben wroko nanga ala soema disi ben sabi da wet nanga kroetoe;",
+          "sourceParagraphs": [
+            592
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "En dem soema disi ben tanapoe na hem sei ben de Karsena, Setar, Admata, Tarsis, Meres, Marsena nanga Memukan, dem sebi fesiman foe Perzië nanga Medië, disi ben si da fesi foe da kownoe, en disi ben sidon na dem hede-presi na ini da kownoekondre;)",
+          "sourceParagraphs": [
+            593
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "San wi sa doe nanga koningin Wasti so leki fa da wet de taki, bikasi a no ben doe da komanderi foe kownoe Ahasveros na mofo foe dem dinari?",
+          "sourceParagraphs": [
+            594
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "En Memukan ben piki dem na fesi foe da kownoe nanga dem fesiman taki: Wasti da koningin no ben doe ogri nanga da kownoe wawan, ma nanga ala dem fesiman nanga da heri pipel disi de na ini ala dem distrikt foe kownoe Ahasveros.",
+          "sourceParagraphs": [
+            595
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Bikasi te dem sa panja da njoensoe foe san da koningin ben doe gi ala dem oemasoema, dan dem sa veragti dem masra na ini dem ai, te dem sa jere taki: Kownoe Ahasveros ben komanderi koningin Wasti foe kom na hem fesi, ma a no ben kom.",
+          "sourceParagraphs": [
+            596
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "So srefi ,na da dei disi, dem oema foe Perzië nanga Medië sa taki disi gi ala dem fesiman foe da kownoe, te dem sa jere san da koningin ben doe. Dan toemoesi foeroe veragti nanga hatibron sa kom.",
+          "sourceParagraphs": [
+            597,
+            600
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Efoe a de boen gi da kownoe, meki hem meki wan kownoe komanderi, en meki dem skrifi hem na ini dem wet foe dem soema foe Perzië nanga Medië, disi no wan soema kan kenki taki: Wasti no sa kom moro na fesi foe kownoe Ahasveros, en meki da kownoe gi hem kownoe-grani na wan tra oema disi de moro boen leki hem.",
+          "sourceParagraphs": [
+            601
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "En te dem sa seni da komanderi foe da kownoe go lontoe hem heri kownoekondre (bikasi a de bigi), dan ala dem wefi sa gi respeki na dem masra, dem hei wan nanga dem lagi wan.",
+          "sourceParagraphs": [
+            602
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "En da taki disi ben gi da kownoe nanga dem fesiman prisiri; en da kownoe ben doe so leki Memukan ben taki;",
+          "sourceParagraphs": [
+            603
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Bikasi a ben seni brifi go na ini ala dem kownoe distrikt, en dem ben skrifi hem gi ibri folkoe na ini dem egi tongo dati ibri mansoema sa de basi foe hem egi oso, en dati dem sa skrifi disi na ini da tongo foe ibri folkoe.",
+          "sourceParagraphs": [
+            604
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 2,
+      "sections": [
+        {
+          "text": "Da kownoe verkisi Ester leki da njoen koningin",
+          "beforeVerse": 1,
+          "sourceParagraph": 607
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Baka dem sani disi, di da hatibron foe kownoe Ahasveros ben kowroe, a ben membre Wasti nanga san a ben doe, en sortoe komanderi a ben gi abra hem.",
+          "sourceParagraphs": [
+            608
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Dan dem dinari foe da kownoe ben taki gi hem taki: Meki dem soekoe dem moi jongoe krin wendje gi da kownoe;",
+          "sourceParagraphs": [
+            609
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "En meki da kownoe seti ofsiri na ini ala dem distrikt foe hem kownoekondre, foe dem moesoe tjari ala dem moi jongoe krin wendje kom makandra, kom na da paleisi na Susan, foe kom na ini da oso foe dem oema, pe Hegai, wan fesiman foe da kownoe disi ben moesoe sorgoe dem oema, sa loekoe dem; en meki dem kisi dem sani foe krini demsrefi;",
+          "sourceParagraphs": [
+            610
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "En meki da krin wendje disi de gi da kownoe prisiri tron koningin na presi foe Wasti. En da sani ben gi da kownoe prisiri, en a ben doe so.",
+          "sourceParagraphs": [
+            611
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Now na ini Susan, na ini da paleisi, wan Djoe ben de disi nem ben de Mordekai, da manpikin foe Jaïr, da manpikin foe Simi, da manpikin foe Kis, wan Benjaminiet soema,",
+          "sourceParagraphs": [
+            612
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Disi dem ben tjari gowe foe Jerusalem nanga dem slafoe disi dem ben tjari gowe nanga Jechonja, da kownoe foe Juda, disi Nebukadnessar, da kownoe foe Babel, ben tjari gowe na inikatibo.",
+          "sourceParagraphs": [
+            613
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En a ben kweki Hadassa, dati wani taki Ester, da oemapikin foe hem omoe, bikasi a no ben abi tata efoe mama moro; a ben de wan krin wendje disi ben de toemoesi moi foe si. Di hem tata nanga mama ben dede, Mordekai ben teki hem leki hem egi oemapikin.",
+          "sourceParagraphs": [
+            614
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "So a ben pasa dati di dem ben jere da komanderi foe da kownoe, en di dem ben tjari foeroe krin wendje kom makandra na ini da paleisi na Susan na ondro da sorgoe foe Hegai, da man disi ben moesoe sorgoe foe dem oema, dem ben tjari Ester go na ini da kownoe oso toe.",
+          "sourceParagraphs": [
+            615
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "En da krin wendje ben gi hem prisiri, en a ben sori boen-hati gi hem; bikasi es'esi a ben gi hem dem sani foe krini hemsrefi, nanga dem sani disi ben de foe hem, nanga sebi oema-dinari disi de fiti foe dini hem komopo foe da oso foe da kownoe, en a ben gi hem nanga dem oema-dinari foe hem da moro boen presi na ini da oso foe dem oema.",
+          "sourceParagraphs": [
+            616
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Ester no ben taki gi no wan soema abra hem pipel efoe hem famiri; bikasi Mordekai ben taigi hem dati a no ben  moesoe taki abra dati.",
+          "sourceParagraphs": [
+            617
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "En ibri dei Mordekai ben waka go na fesi foe da opo presifoe da oso foe dem oema foe sabi fa alasani ben waka nanga Ester, en san sa pasa nanga hem.",
+          "sourceParagraphs": [
+            618
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Now di ibri krin wendje ben kisi hem tem foe go na kownoe Ahasveros, baka da tem a ben de twalfoe moen langa, so leki da fasi foe dem oema ben de; (bikasi dem dei foe krini hemsrefi ben de siksi moen nanga mirre olie nanga siksi moen nanga switi smeri sani nanga dem sani foe meki dem oema kom moi)",
+          "sourceParagraphs": [
+            619
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Dan ibri krin wendje ben kom na da kownoe; iniwan sani disi a ben wani, na dati dem ben gi hem foe go nanga hem komopo foe da oso foe dem oema, foe go na da kownoe oso.",
+          "sourceParagraphs": [
+            620
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Mofoneti a ben go na ini, en mamanten a ben komopo en a ben go na di foe toe oso foe dem oema, na ondro da sorgoe foe Saäsgaz, da dinari foe da kownoe disi moesoe sorgoe foe dem bijvrouw; a no ben go na ini na da kownoe moro, boiti efoe da kownoe ben abi prisiri nanga hem, en dan a ben kari hem nanga nem.",
+          "sourceParagraphs": [
+            621
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Now di da tem ben doro foe Ester, da oemapikin foe Abichaïl, da omoe foe Mordekai, disi ben teki hem leki hem oemapikin, foe hem ben sa go na ini na da kownoe, a no ben aksi foe no wan saniboiti san Hegai, da dinari foe da kownoe disi moesoe ben sorgoe dem oema, ben rai. En Ester ben kisi boen nem na ini da ai foe ala soema disi ben si hem.",
+          "sourceParagraphs": [
+            622
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "So dem ben tjari Ester go na kownoe Ahasveros na ini hem kownoe oso na ini di foe tien moen, disi de da moen Tebet, na di foe sebi jari di a ben de kownoe.",
+          "sourceParagraphs": [
+            623
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "En da kownoe ben lobi Ester moro leki ala dem tra oema, en a ben feni gnade nanga boen-hati na ini hem ai moro leki ala dem krin wendje; so dati a ben seti da kownoe kroon na tapoe hem hede, en a ben meki hem tron koningin na presi foe Wasti.",
+          "sourceParagraphs": [
+            624
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "Dan da kownoe ben meki wan bigi fesa gi ala hem fesiman nanga hem dinari, wan fesa gi Ester; en a ben meki dem distrikt fri foe pai lantimoni, en a ben gi presenti so leki joe kan verwakti foe so wan kownoe.",
+          "sourceParagraphs": [
+            625
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "En di dem ben tjari ala dem krin wendje kom makandra di foe toe leisi, dan Mordekai ben sidon na fesi foe da kownoe portoe.",
+          "sourceParagraphs": [
+            626
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "Ester no ben sori hem famiri efoe hem folkoe, so leki Mordekai ben komanderi hem; bikasi Ester ben hori dem komanderi foe Mordekai so lekidi a ben kweki hem.",
+          "sourceParagraphs": [
+            627
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "Na ini dem dei dati, di Mordekai ben sidon na fesi foe da kownoe portoe, toe foe dem fesiman foe da kownoe, Bigtan nanga Teres, foe dem portoe waktiman, dem hati ben bron, en dem ben soekoe foe kiri kownoe Ahasveros.",
+          "sourceParagraphs": [
+            628
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "En Mordekai ben jere da tori, en a ben taki hem gi Ester da koningin; en Ester ben sori da tori na da kownoe na ini da nem foe Mordekai.",
+          "sourceParagraphs": [
+            629
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "En di dem ben ondrosoekoe da tori, dem ben feni hem troe; foe dat'ede dem ben hanga ala toe foe dem na tapoe wan bon, en dem ben skrifi disi na ini da boekoe foe da historia na fesi foe da kownoe.",
+          "sourceParagraphs": [
+            630
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 3,
+      "sections": [
+        {
+          "text": "Haman seti hemsrefi agensi dem Djoe",
+          "beforeVerse": 1,
+          "sourceParagraph": 633
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Baka dem sani disi, kownoe Ahasveros ben opo da Agagiet soema Haman, da manpikin foe Hammedata, foe meki hem stoeroe kom moro hei leki ala dem tra fesiman disi ben de nanga hem.",
+          "sourceParagraphs": [
+            634
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En ala dem dinari foe da kownoe disi ben de na da portoe foe da kownoe ben boigi kindi en sori respeki gi Haman, bikasi so da kownoe ben komanderi abra hem. Ma Mordekai no ben boigi hem kindi efoe sori hem respeki.",
+          "sourceParagraphs": [
+            635
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Dan dem dinari foe da kownoe disi ben de na da portoe foe da kownoe ben taki gi Mordekai taki: Foe san'ede joe broko da komanderi foe da kownoe?",
+          "sourceParagraphs": [
+            636
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Now a ben pasa so dati di dem ben taki ala dei nanga hem, en a no ben arki na dem, dan dem ben taigi Haman foe si efoe da besroiti foe Mordekai sa tan; bikasi a ben taigi dem dati a ben de wan Djoe.",
+          "sourceParagraphs": [
+            637
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "En di Haman ben si dati Mordekai no ben boigi hem kindi efoe respeki hem, dan Haman hati ben faja.",
+          "sourceParagraphs": [
+            638
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "En a ben prakseri dati da strafoe ben de pikin toemoesi foe fasi Mordekai wawan, bikasi dem ben sori hem da pipel foe Mordekai; foe dat'ede Haman ben soekoe foe figi ala dem Djoe disi ben de na ini da heri kownoekondre foe Ahasveros poeroe, da pipel foe Mordekai.",
+          "sourceParagraphs": [
+            639
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Na da fosi moen, dati wani taki, da moen Nisan, na di foe twalfoe jari foe kownoe Ahasveros, dem ben trowe Pur, dati wani taki lot, na fesi foe Haman dei foe dei nanga moen foe moen te leki di foe twalfoe moen, dati de da moen Adar.",
+          "sourceParagraphs": [
+            640
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "En Haman ben taki gi kownoe Ahasveros taki: Wan pipel de panja na mindri foe da pipelfoe ala dem distrikt foe joe kownoekondre; en dem wet foe dem de aparti foe ala dem tra pipel; en dem no hori dem wet foe da kownoe; foe dat'ede a no de boen gi da kownoe foe libi dem nanga rostoe.",
+          "sourceParagraphs": [
+            641
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Efoe a de boen na ini da ai foe da kownoe, meki dem skrifi dati dem kan figi dem poeroe; en mi sa pai tien doesoen talenti sorfoe na ini da anoe foe dem soema disi sa de basi foe da wroko, foe tjari hem kom na ini da goedoe-presi foe da kownoe.",
+          "sourceParagraphs": [
+            642
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "En da kownoe ben poeroe hem linga komopo foe hem finga, en a ben gi hem na da Agagiet soema Haman, da manpikin foe Hammedata, da feanti foe dem Djoe.",
+          "sourceParagraphs": [
+            643
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "En da kownoe ben taki gi Haman taki: Mi gi da sorfoe na joe, nanga da pipel toe, foe doe nanga dem san disi de boen na ini joe ai.",
+          "sourceParagraphs": [
+            644
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Dan dem ben kari dem skrifiman foe da kownoe kom na di foe tien-na-drie dei foe da fosi moen, en dem ben skrifi alasani disi Haman ben komanderi gi dem fesiman foe da kownoe nanga dem fesiman foe ibri distrikt, nanga dem hedeman foe ibri folkoe foe ibri distrikt so leki dem ben gwenti foe skrifi drape, en gi ibri folkoe na ini hem egi tongo; dem ben skrifi hem na ini danem foe kownoe Ahasveros, en dem ben stampoe hem nanga da linga foe da kownoe.",
+          "sourceParagraphs": [
+            645
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "En dem ben seni dem brifi nanga dem boskopoeman go na ala dem distrikt foe da kownoe, foe pori, kiri, en figi ala Djoe poeroe, dem jongoe wan nanga dem owroe wan, dem pikinnengre nanga dem oemasoema, na wan dei, na di foe tien-na-drie dei foe di foe twalfoe moen, disi de da moen Adar, en foe teki dem goedoe leki wan winisani.",
+          "sourceParagraphs": [
+            646
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Wan eksempre foe da skrifi foe da komanderi ben go na ibri distrikt foe go na ala folkoe, so dati dem ben sa meki demsrefi klari foe da dei dati.",
+          "sourceParagraphs": [
+            647
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "En dem boskopoeman ben go na doro, en dem ben go es'esi bikasi foe da komanderi foe da kownoe disi dem ben skrifi na Susan na ini da paleisi. En da kownoe nanga Haman ben sidon foe dringi, ma da sani ben dangra da heri foto foe Susan.",
+          "sourceParagraphs": [
+            648
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 4,
+      "sections": [
+        {
+          "text": "Mordekai taigi Ester abra san Haman sa doe",
+          "beforeVerse": 1,
+          "sourceParagraph": 650
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Di Mordekai ben sabi alasani disi ben pasa, Mordekai ben priti hem krosi, en a ben weri low-krosi nanga asisi, en a ben go na da mindri foe da foto, en a ben krei wan tranga bita krei.",
+          "sourceParagraphs": [
+            651
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Dan a ben kom na fesi foeda portoe foe da kownoe, bikasi no wan soema disi ben weri low-krosi ben abi pasi foe kom na ini da portoe foe da kownoe.",
+          "sourceParagraphs": [
+            652
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "En na ini ibri distrikt pe da komanderi nanga da wet foe da kownoe ben go, dem Djoe ben hori bigi low nanga faste nanga krei nanga bari, en foeroe soema ben weri low-krosi en didon na ini asisi.",
+          "sourceParagraphs": [
+            653
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "So dem oema-dinari foe Ester nanga dem dinari foe hem ben kom taigi hem. Dan da koningin ben kom sari toemoesi, en a ben seni krosi go gi Mordekai foe a weri, en foe a sa poeroe hem low-krosi foe hem, ma a no ben wani teki dem.",
+          "sourceParagraphs": [
+            654
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Dan Ester ben kari Hatak kom, wan foe dem dinari foe da kownoe disi a ben poti foe dini hem, en a ben gi hem wan komanderi foe aksi Mordekai san ben pasa, en foe san'ede a ben pasa.",
+          "sourceParagraphs": [
+            655
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Da so Hatak ben go na doro na Mordekai na ini da strati foe da foto disi ben de na fesi foe da portoe foe da kownoe.",
+          "sourceParagraphs": [
+            656
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En Mordekai ben taigi hem abra alasani disi ben pasa nanga hem, en omeni moni Haman ben pramisi foe pai na da kownoe-goedoe foe figi dem Djoe poeroe.",
+          "sourceParagraphs": [
+            657
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Moro fara, a ben gi hem wan eksempre foe da skrifi foeda komanderi disi dem ben meki na Susan foe figi dem poeroe, foe a moesoe sori disi na Ester, en foe taigi hem alasani, en foe aksi hem foe go na fesi da kownoe foe begi hem, en aksi da kownoe gnade gi hem pipel.",
+          "sourceParagraphs": [
+            658
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "En Hatak ben kom taigi Ester ala dem woortoe foe Mordekai.",
+          "sourceParagraphs": [
+            659
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "En Ester ben taki gi Hatak, en a ben gi hem wan komanderi  foe taki gi Mordekai taki:",
+          "sourceParagraphs": [
+            660
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Ala dem dinari foe da kownoe, nanga dem soema foe dem distrikt foe da kownoe, sabi dati iniwan soema, alwasi a de man efoe oema, efoe a kom na da kownoe na da inisei opo presi, en da kownoe no ben kari dem kom, dan wan wet de nomo, dati dem moesoe dede efoe da kownoe no langa da gowtoe kownoe-tiki gi hem foe hem kan tan na libi; ma dem no ben kari mi foe kom na da kownoe dem drie tenti dei disi.",
+          "sourceParagraphs": [
+            661
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "En dem ben taigi Mordekai dem woortoe foe Ester.",
+          "sourceParagraphs": [
+            662
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Dan Mordekai ben komanderi dem foe piki Ester taki: Joe no moesoe denki na ini joe hati dati joe sa lon go kibri na ini da kownoe oso moro leki iniwan foe dem tra Djoe.",
+          "sourceParagraphs": [
+            663
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Bikasi efoe joe hori joe mofo en no taki na da tem disi,dan wan verloesoe sa komopo foe wan tra presi gi dem Djoe, ma dem sa figi joe nanga joe tata oso poeroe; en soema sabi efoe joe ben kom na da kownoekondre na da tem disi foe doe so wan wroko?",
+          "sourceParagraphs": [
+            664
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Dan Ester ben seni dem go baka na Mordekai en a ben piki hem taki:",
+          "sourceParagraphs": [
+            665
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "Go, kari ala dem Djoe kom makandra disi de na ini Susan, en faste gi mi, en no njan efoe dringi drie dei langa; na netitem efoe deitem; so srefi, mi nanga mi oema-dinari sa doe so, en so mi sa go na ini na da kownoe, na wan fasi disi de agensi da wet, en efoe mi sa dede, dan mi sa dede.",
+          "sourceParagraphs": [
+            666
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "So Mordekai ben teki hem pasi, en a ben doe alasani disi Ester ben komanderi hem foe doe.",
+          "sourceParagraphs": [
+            667
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 5,
+      "sections": [
+        {
+          "text": "Ester go na fesi foe da kownoe",
+          "beforeVerse": 1,
+          "sourceParagraph": 670
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now a ben pasa so dati na di foe drie dei, dan Ester ben weri hem koningin krosi, en a ben go tanapoe na da opo presi na inisei foe da kownoe oso, na sei foe da kownoe oso; en da kownoe ben sidon na tapoe hem kownoe-stoeroe na ini da kownoe oso, na abrasei foe da portoe foe da oso.",
+          "sourceParagraphs": [
+            671
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En a ben de so dati di da kownoe ben si Ester dakoningin tanapoe na da opo presi, dan a ben kisi gnade na ini hem ai; en da kownoe ben langa da gowtoe kownoe-tiki na ini hem anoe go na Ester. So Ester ben kom krosibei, en a ben meri da kaba-pisi foe da kownoe-tiki.",
+          "sourceParagraphs": [
+            672
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Dan da kownoe ben taki gi hem taki: San joe wani, koningin Ester, en sortoe sani joe aksi? Mi sa gi hem na joe, te leki hafoe foe mi kownoekondre.",
+          "sourceParagraphs": [
+            673
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "En Ester ben piki taki: Efoe a de boen na ini da ai foe da kownoe, meki da kownoe nanga Haman kom tide na da fesa disi mi ben meki klari gi hem.",
+          "sourceParagraphs": [
+            674
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Dan da kownoe ben taki: Meki Haman kom es'esi, foe hem kan doe so leki Ester ben taki. So da kownoe nanga Haman ben kom na da fesa disi Ester ben meki klari.",
+          "sourceParagraphs": [
+            675
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "En da kownoe ben taki gi Ester na da fesa foe wini taki: San joe aksi? Mi sa gi hem na joe. En san joe wani? Te leki hafoe foe mi kownoekondre mi sa gi hem na joe.",
+          "sourceParagraphs": [
+            676
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Dan Ester ben piki hem taki: San mi aksi, en san mi wani de disi:",
+          "sourceParagraphs": [
+            677
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Efoe mi ben feni boen na ini da ai foe da kownoe, en efoe a sa gi da kownoe prisiri foe gi mi san mi aksi, meki da kownoe nanga Haman kom na da fesadisi mi sa meki klari gi dem, en tamara mi sa doe so leki da kownoe ben taki.",
+          "sourceParagraphs": [
+            678
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Dan tapoe da dei dati, Haman ben breiti, en a ben komopo nanga wan prisiri hati, ma di Haman ben si Mordekai na da portoe foe da kownoe, en dati a no ben tanapoe, en a no ben beifi na hem fesi, hem hati ben faja agensi Mordekai.",
+          "sourceParagraphs": [
+            679
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Tokoe Haman ben hori hemsrefi, en di a ben kom na oso, a ben seni kari hem mati nanga hem wefi Zeres kom.",
+          "sourceParagraphs": [
+            680
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "En Haman ben taigi dem abra da glori foe hem goedoe, nanga omeni pikin a ben meki, en ala dem fasi disi da kownoe ben poti hem na fesi, en fa a ben seti hem na fesi foe ala dem tra fesiman nanga dem dinari foe da kownoe.",
+          "sourceParagraphs": [
+            681
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Moro fara, Haman ben taki: Ja, Ester da koninin no ben gi wan tra man pasi boiti mi wawan foe kom nanga da kownoe na da fesa disi a ben meki klari; en so srefi tamara a ben aksi mi foe kom baka nanga da kownoe na hem.",
+          "sourceParagraphs": [
+            682
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Tokoe ala disi no de waarti noti gi mi so langa dati mi moesoe si Mordekai da Djoe sidon na da portoe foe da kownoe.",
+          "sourceParagraphs": [
+            683
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "Dan Zeres hem wefi nanga ala hem mati ben taki gi hem taki: Bouw wan hanga-pilari twenti na feifi meter hei, entamara taki nanga da kownoe foe hanga Mordekai na hem tapoe; dan joe kan go nanga prisiri nanga da kownoe na da fesa. En da sani ben gi Haman prisiri, en a ben meki dem bouw da hanga-pilari.",
+          "sourceParagraphs": [
+            684
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 6,
+      "sections": [
+        {
+          "text": "Haman moesoe sori grani na Mordekai",
+          "beforeVerse": 1,
+          "sourceParagraph": 687
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Na da neti dati, da kownoe no ben man sribi, en a ben komanderi dem foe tjari da boekoe foe dem wroko foe da historia kom, en dem ben leisi dem na fesi foe da kownoe.",
+          "sourceParagraphs": [
+            688
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En dem ben feni pe a ben skrifi dati Mordekai ben taki abra Bigtan nanga Teres, toe foe dem dinari foe da kownoe, dem waktiman foe da portoe, disi ben soekoe foe poti dem anoe na kownoe Ahasveros foe kiri hem.",
+          "sourceParagraphs": [
+            689
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "En da kownoe ben taki: Sortoe bigi nem nanga grani wi ben gi na Mordekai foe da wroko disi? Dan dem dinari foe da kownoe, disi ben dini hem ben taki: Wi no ben doe noti gi hem.",
+          "sourceParagraphs": [
+            690
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "En da kownoe ben aksi taki: Soema de na ini da opo presi? Now Haman ben kom na ini da dorosei opo presi foe da kownoe oso, foe taki nanga da kownoe foe hanga Mordekai na tapoe da hanga-pilari disi a benmeki klari gi hem.",
+          "sourceParagraphs": [
+            691
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "En dem dinari foe da kownoe ben taki gi hem taki: Loekoe, Haman de tanapoe na ini da opo presi. En da kownoe ben taki: Meki hem kom na ini.",
+          "sourceParagraphs": [
+            692
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "So Haman ben kom na ini. En da kownoe ben taki gi hem taki: Sortoe sani dem sa doe nanga da man disi da kownoe abi prisiri foe gi bigi nem? Now Haman ben prakseri na ini hem hati taki: Na soema da kownoe sa prisiri foe gi bigi nem moro leki misrefi?",
+          "sourceParagraphs": [
+            693
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En Haman ben piki da kownoe taki: Foe da man disi da kownoe ben abi prisiri foe gi bigi nem,",
+          "sourceParagraphs": [
+            694
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Meki dem tjari da kownoe krosi disi da kownoe ben gwenti foe weri kom, en da asi disi da kownoe de rij na hem tapoe, en da kownoe kroon disi dem seti na tapoe hem hede;",
+          "sourceParagraphs": [
+            695
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "En meki dem gi da krosi disi nanga da asi na ini da anoe foe wan foe dem moro bigi fesiman foe da kownoe, foe dem kan poti dem na tapoe da man disi da kownoe wani foe gi bigi nem, en tjari hem go na tapoe da asi waka lontoe da strati foe da foto, en meki hem bari na hem fesi taki: So dem sa doe nanga da man disi da kownoe wani gi bigi nem.",
+          "sourceParagraphs": [
+            696
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Dan da kownoe ben taki gi Haman taki: Go es'esi, en tekidem krosi nanga da asi so leki joe ben taki, en doe so nanga Mordekai da Djoe disi de sidon na da portoe foe da kownoe; no meki wan sani mankeri foe alasani disi joe ben taki.",
+          "sourceParagraphs": [
+            697
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Dan Haman ben teki da krosi nanga da asi, en a ben poti dem krosi na tapoe Mordekai, en a ben tjari hem go na tapoe da asi waka lontoe da strati foe da foto, en a ben bari na hem fesi taki: So dem sa doe nanga da man disi da kownoe wani gi bigi nem.",
+          "sourceParagraphs": [
+            698
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "En Mordekai ben kom baka na da portoe foe da kownoe. Ma Haman ben go es'esi na hem oso na ini low, en a ben tapoe hem hede.",
+          "sourceParagraphs": [
+            699
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "En Haman ben taigi hem wefi Zeres nanga ala hem mati alasani disi ben miti hem. Dan dem koniman foe hem nanga Zeres hem wefi ben taki gi hem taki: Efoe Mordekai de foe da siri foe dem Djoe, en joe ben bigin foe fadon na hem fesi, dan joe no sa wini hem, ma foe troe joe sa fadon na hem fesi.",
+          "sourceParagraphs": [
+            700
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "En di dem ben taki nanga hem ete, dem dinari foe da kownoe ben kom, en dem ben tjari Haman go es'esi na da fesa disi Ester ben meki klari.",
+          "sourceParagraphs": [
+            701
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 7,
+      "sections": [
+        {
+          "text": "Ester sori da kownoe san Haman ben sa doe; dem hangaHaman",
+          "beforeVerse": 1,
+          "sourceParagraph": 706
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "So da kownoe nanga Haman ben kom na da fesa na Ester da koningin.",
+          "sourceParagraphs": [
+            707
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En da kownoe ben aksi Ester agen tapoe di foe toe dei na da fesa foe wini taki: San joe de aksi, koningin Ester? Mi sa gi hem na joe. En san joe wani? Dati joe sa kisi, te leki hafoe foe da kownoekondre.",
+          "sourceParagraphs": [
+            708
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Dan Ester da koningin ben piki taki: Efoe mi ben feni boen na ini joe ai, O kownoe, en efoe a de gi da kownoe prisiri, mi begi foe mi egi libi, en mi aksi foe da libi foe mi pipel.",
+          "sourceParagraphs": [
+            709
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Bikasi dem ben seri wi, mi nanga mi pipel, foe dem sa figi wi poeroe, foe dem sa kiri wi, foe wi sa dede.  Ma efoe dem ben sa seri wi leki slafoeman nanga slafoe-oema, dan mi ben sa tapoe mi mofo, alwasi dem feanti no ben kan tapoe san da kownoe ben sa lasi.",
+          "sourceParagraphs": [
+            710
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Dan kownoe Ahasveros ben piki Ester da koningin taki: Soema na da soema, en pe a de, disi sa prakseri na ini hem hati foe doe so wan sani?",
+          "sourceParagraphs": [
+            711
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "En Ester ben taki: Da feanti disi de pina wi de da ogri man Haman disi. Dan Haman ben kom frede na fesi foe da kownoe nanga da koningin.",
+          "sourceParagraphs": [
+            712
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En da kownoe ben opo foe hem fesa foe wini na ini hem hatibron, en a ben waka go naini da djari foe da paleisi; en Haman ben tanapoe foe begi foe hem libi na Ester da koningin, bikasi a ben si dati da kownoe ben meki wan ogri besroiti agensi hem kaba.",
+          "sourceParagraphs": [
+            713
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Dan da kownoe ben kom baka foe da djari foe da paleisi kom na da presi foe da fesa foe wini; en Haman ben fadon na tapoe da bedi pe Ester ben de. Dan da kownoe ben taki: A sa dwingi da koningin toe na mi fesi na ini da oso? En di da woortoe ben komopo foe da kownoe mofo, dem ben tapoe da fesi foe Haman.",
+          "sourceParagraphs": [
+            714
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "En Charbona, wan foe dem dinari foe da kownoe, ben taki na fesi foe da kownoe taki: Loekoe toe, wan hanga-pilari twenti na feifi meter hei de na da oso foe Haman disi a ben bouw gi Mordekai, disi ben taki boen foe da kownoe. Dan da kownoe ben taki: Hanga hem na hem tapoe.",
+          "sourceParagraphs": [
+            715
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "So dem ben hanga Haman na tapoe da hanga-pilari disi a ben meki klari gi Mordekai. En dan da kownoe hati ben kom kowroe.",
+          "sourceParagraphs": [
+            716
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 8,
+      "sections": [
+        {
+          "text": "Kownoe Ahasveros meki wan komanderi disi jepi dem Djoe",
+          "beforeVerse": 1,
+          "sourceParagraph": 719
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Tapoe da srefi dei kownoe Ahasveros ben gi da oso foeHaman, da feanti foe dem Djoe, na Ester da koningin. En Mordekai ben kom na fesi foe da kownoe, bikasi Ester ben taigi hem foe sortoe famiri a ben komopo.",
+          "sourceParagraphs": [
+            720
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En da kownoe ben poeroe hem linga, disi a ben teki baka foe Haman, en a ben gi hem na Mordekai. En Ester ben seti Mordekai leki basi abra da oso foe Haman.",
+          "sourceParagraphs": [
+            721
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "En Ester ben taki ete wan leisi na fesi foe da kownoe, en a ben fadon na hem foetoe, en a ben begi hem nanga watra-ai foe poeroe da ogri foe Haman, da Agagiet soema, en san a ben wani doe agensi dem Djoe.",
+          "sourceParagraphs": [
+            722
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Dan da kownoe ben langa da gowtoe kownoe-tiki na Ester. So Ester ben opo, en a ben tanapoe na fesi foe da kownoe.",
+          "sourceParagraphs": [
+            723
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "En a ben taki: Efoe a sa gi da kownoe prisiri, en efoe mi ben feni boen na ini hem ai, en da sani de leti na ini da ai foe da kownoe, en efoe a de prisiri nanga mi, dan skrifi wan sani foe tapoe dem brifi disi Haman da Agagiet soema, da manpikin foe Hammedata ben skrifi kaba foe figi dem Djoe poeroe na ini ala dem distrikt foe da kownoe;",
+          "sourceParagraphs": [
+            724
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "Bikasi fa mi kan si da ogri disi sa kom na tapoe mi pipel? En fa mi kan si dem figi mi famiri poeroe?",
+          "sourceParagraphs": [
+            725
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "Dan kownoe Ahasveros ben taki gi Ester da koningin nanga Mordekai da Djoe taki: Loekoe, mi ben gi Ester da oso foe Haman, en dem ben hanga hem na tapoe da hanga-pilari, bikasi a ben poti hem anoe agensi dem Djoe.",
+          "sourceParagraphs": [
+            726
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Oen skrifi so srefi gi dem Djoe so leki oen feni boen na ini da nem foe da kownoe, en stampoe hem nanga da kownoe linga; bikasi da brifi disi de skrifi na ini da kownoe nem, en disi de stampoe nanga da kownoe stampoe, no wan soema kan kenki.",
+          "sourceParagraphs": [
+            727
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Dan dem ben kari dem skrifiman foe da kownoe kom na da tem dati, na di foe drie moen, da moen Siwan, na di foe twenti na drie dei foe hem; en dem skrifi alasani disi Mordekai ben komanderi gi dem Djoe, nanga dem fesiman nanga dem dinari nanga dem basi na ini dem distrikt foe Indië te leki Ethiopië, wan hondro nanga twenti na sebi distrikt, en dem ben skrifi na ibri distrikt na ini dem egi skrifi nanga dem egi tongo, en na dem Djoe na ini dem egi skrifi nanga dem egi tongo.",
+          "sourceParagraphs": [
+            728
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "En a ben skrifi na ini da nem foe kownoe Ahasveros, en a ben stampoe hem nanga da linga foe da kownoe, en a ben seni dem brifi nanga boskopoeman na tapoe dem asi, nanga dem rij-meti, nanga dem kameli nanga dem jongoe kameli:",
+          "sourceParagraphs": [
+            729
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Na ini da brifi, da kownoe ben gi pasi na dem Djoe disi ben de na ibri foto foe kom makandra, foe tanapoe foe dem libi, en foe pori, kiri, en figi poeroe ala dem makti foe da pipel nanga da distrikt disi sa feti agensi dem, dem pikinnengre nanga dem oema, en foe teki dem goedoe leki winisani.",
+          "sourceParagraphs": [
+            730
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "Tapoe wan dei na ala dem distrikt foe kownoe Ahasveros, dati de di foe tien-na-drie dei foe di foe twalfoe moen, disi de da moen Adar.",
+          "sourceParagraphs": [
+            731
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Da eksempre foe da skrifi foe wan komanderi gi ibri distrikt ben panja gi ala pipel, dati dem Djoe sa meki demsrefi klari gi da dei dati foe teki revensi na tapoe dem feanti.",
+          "sourceParagraphs": [
+            732
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "So dem boskopoeman ben rij go na doro na tapoe dem rij-meti nanga dem kameli, en dem ben go es'esi bikasi foe da komanderi foe da kownoe. En dem ben meki da komanderi na ini da paleisi na Susan.",
+          "sourceParagraphs": [
+            733
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "En Mordekai ben komopo na fesi foe da kownoe, en a ben weri moi krosi foe blauw nanga weti, nanga wan bigi gowtoe kroon, en nanga wan krosi foe fini linnen nanga paars, en da foto foe Susan ben prisiri, endem ben breiti.",
+          "sourceParagraphs": [
+            734
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "En dem Djoe ben breiti, en dem ben abi leti nanga prisiri nanga bigi nem.",
+          "sourceParagraphs": [
+            735
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "En na ini ibri distrikt en na ini ibri foto pe da komanderi nanga hem wet ben kom, dem Djoe ben breiti en dem ben prisiri, en dem ben abi wan fesa nanga wan boen dei. En foeroe foe dem pipel foe da kondre ben tron Djoe, bikasi da frede foe dem Djoe ben fadon na dem tapoe.",
+          "sourceParagraphs": [
+            736
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 9,
+      "sections": [
+        {
+          "text": "Dem Djoe broko dem feanti saka",
+          "beforeVerse": 1,
+          "sourceParagraph": 739
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Now na di foe twalfoe moen, dati wani taki, da moen Adar, na di foe tien-na-drie dei foe hem, di da tem foe doe da komanderi foe da kownoe nanga hem wet ben kom krosibei, tapoe da dei disi dem feanti foe dem Djoe ben hopoe foe abi makti abra dem, (alwasi da sani ben drai lontoe, en dem Djoe ben tron basi abra dem soema disi no ben lobi dem;)",
+          "sourceParagraphs": [
+            740
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "Dan dem Djoe ben kom makandra na ini dem foto ini ala dem distrikt foe kownoe Ahasveros, foe poti dem anoe na tapoe dem soema disi ben soekoe foe pina dem; en no wan mansoema ben kan tanapoe agensi dem, bikasi da frede foe dem ben fadon na tapoe aladem folkoe.",
+          "sourceParagraphs": [
+            741
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "En ala dem fesiman foe dem distrikt, nanga dem hedeman nanga dem bigi man nanga dem ofsiri foe da kownoe ben jepi dem Djoe, bikasi da frede foe Mordekai ben fadon na dem tapoe.",
+          "sourceParagraphs": [
+            742
+          ]
+        },
+        {
+          "verse": 4,
+          "text": "Bikasi Mordekai ben abi bigi nem na ini da kownoe oso, en hem bigi nem ben panja lontoe na ini ala dem distrikt, bikasi da mansoema Mordekai disi ben kom moro makti dorodoro.",
+          "sourceParagraphs": [
+            743
+          ]
+        },
+        {
+          "verse": 5,
+          "text": "Da so dem Djoe ben naki ala dem feanti nanga howroe, en dem ben kiri dem, en dem ben figi dem poeroe, en dem ben doe san dem ben wani nanga dem soema disi no ben lobi dem.",
+          "sourceParagraphs": [
+            744
+          ]
+        },
+        {
+          "verse": 6,
+          "text": "En na ini da paleisi na Susan dem ben kiri feifi hondro man en dem ben figi dem poeroe;",
+          "sourceParagraphs": [
+            745
+          ]
+        },
+        {
+          "verse": 7,
+          "text": "En Parsandata, nanga Dalfon, nanga Aspata,",
+          "sourceParagraphs": [
+            746
+          ]
+        },
+        {
+          "verse": 8,
+          "text": "Nanga Porata, nanga Adalja, nanga Aridata,",
+          "sourceParagraphs": [
+            747
+          ]
+        },
+        {
+          "verse": 9,
+          "text": "Nanga Parmasta, nanga Arisai, nanga Aridai nanga Waizata,",
+          "sourceParagraphs": [
+            748
+          ]
+        },
+        {
+          "verse": 10,
+          "text": "Dem tien manpikin foe Haman, da manpikin foe Hammedata, da soema disi no ben lobi dem Djoe, na dem dem ben kiri, ma dem no ben langa dem anoe foe teki dem winisani.",
+          "sourceParagraphs": [
+            749
+          ]
+        },
+        {
+          "verse": 11,
+          "text": "Tapoe da dei dati, dem ben tjari da nomroe foe dem soema disi ben dede na ini da paleisi na Susan kom gi da kownoe.",
+          "sourceParagraphs": [
+            750
+          ]
+        },
+        {
+          "verse": 12,
+          "text": "En da kownoe ben taki gi Ester da koningin taki: Dem Djoe ben kiri feifi hondro mansoema en dem ben figi dem poeroe na ini da paleisi na Susan, nanga dem tien manpikin foe Haman; san dem ben doe na ini dem tra distrikt foe da kownoe? En san joe wani doe now? Mi sa gi joe pasi; san joe aksi moro fara? Mi sa doe hem.",
+          "sourceParagraphs": [
+            751
+          ]
+        },
+        {
+          "verse": 13,
+          "text": "Dan Ester ben taki: Efoe a gi da kownoe prisiri, gi dem Djoe na ini Susan pasi foe doe tamara toe so leki joe ben komanderi foe tide, en meki dem hanga dem tien manpikin foe Haman na tapoe da hanga-pilari.",
+          "sourceParagraphs": [
+            752
+          ]
+        },
+        {
+          "verse": 14,
+          "text": "En da kownoe ben komanderi dem foe doe so, en dem ben gi da komanderi na Susan, en dem ben hanga dem tien manpikin foe Haman.",
+          "sourceParagraphs": [
+            753
+          ]
+        },
+        {
+          "verse": 15,
+          "text": "Bikasi dem Djoe disi ben de na ini Susan ben kom makandra tapoe di foe tien-na-fo dei foe da moen Adar toe, en dem ben kiri drie hondro mansoema na ini Susan; ma dem no ben langa dem anoe foe teki winisani.",
+          "sourceParagraphs": [
+            754
+          ]
+        },
+        {
+          "verse": 16,
+          "text": "En dem tra Djoe disi ben de na ini dem distrikt foe dakownoe ben kom makandra, en dem ben tanapoe feti foe dem libi, en dem ben abi rostoe foe dem feanti, en dem ben kiri sebi tenti na feifi doesoen foe dem feanti, ma dem no ben poti dem anoe na tapoe dem winisani,",
+          "sourceParagraphs": [
+            755
+          ]
+        },
+        {
+          "verse": 17,
+          "text": "Tapoe di foe tien-na-drie dei foe da moen Adar. Tapoe di foe tien-na-fo dei foe da srefi moen, dem ben teki bro, en dem ben meki hem tron wan dei foe fesa en foe abi prisiri.",
+          "sourceParagraphs": [
+            756
+          ]
+        },
+        {
+          "verse": 18,
+          "text": "Ma dem Djoe disi ben de na ini Susan ben kom makandra tapoe di foe tien-na drie dei nanga di foe tien-na-fo dei, en tapoe di foe tien-na-feifi dei foe da srefi moen, dem ben teki bro, en dem ben meki hem tron wan dei foe fesa en foe abi prisiri.",
+          "sourceParagraphs": [
+            757
+          ]
+        },
+        {
+          "verse": 19,
+          "text": "Foe dat'ede dem Djoe foe dem dorpoe disi ben libi na ini dem foto sondro skotoe, ben meki di foe tien-na-fo dei foe da moen Adar tron wan dei foe prisiri nanga fesa, en wan boen dei, en wan dei foe seni presenti go na dem trawan.",
+          "sourceParagraphs": [
+            758
+          ]
+        },
+        {
+          "verse": 20,
+          "text": "En Mordekai ben skrifi ala dem sani disi, en a ben seni brifi go na ala dem Djoe disi ben de na ini ala dem distrikt foe kownoe Ahasveros, dem disi ben de krosibei nanga farawe,",
+          "sourceParagraphs": [
+            759
+          ]
+        },
+        {
+          "verse": 21,
+          "text": "Foe seti disi faste na dem mindri, dati dem sa hori di foe tien-na-fo dei foe da moen Adarnanga di foe tien-na-feifi dei ibri jari;",
+          "sourceParagraphs": [
+            760
+          ]
+        },
+        {
+          "verse": 22,
+          "text": "Leki dem dei disi dem Djoe ben rostoe foe dem feanti, en da moen disi ben kenki foe sari tron prisiri, en foe wan dei foe hori low, a ben tron wan boen dei; foe dem sa meki dem tron wan dei foe fesa nanga prisiri, en foe seni presenti go na trawan, en foe gi presenti na dem poti soema.",
+          "sourceParagraphs": [
+            761
+          ]
+        },
+        {
+          "verse": 23,
+          "text": "En dem Djoe ben doe so leki dem ben bigin, so leki Mordekai ben skrifi gi dem;",
+          "sourceParagraphs": [
+            762
+          ]
+        },
+        {
+          "verse": 24,
+          "text": "Bikasi Haman, da manpikin foe Hammedata, da Agagiet soema, da feanti foe ala dem Djoe, ben prakseri agensi dem Djoe foe figi dem poeroe, en a ben trowe Pur, dati wani taki lot, foe njan dem en foe figi dem poeroe;",
+          "sourceParagraphs": [
+            763
+          ]
+        },
+        {
+          "verse": 25,
+          "text": "Ma di Ester ben kom na fesi foe da kownoe, a ben komanderi nanga wan brifi dati da takroedoe disi, disi Haman ben meki agensi dem Djoe, sa kom baka na tapoe hem egi hede, en dati dem ben moesoe hanga hem nanga dem manpikin foe hem tapoe wan hanga-pilari.",
+          "sourceParagraphs": [
+            764
+          ]
+        },
+        {
+          "verse": 26,
+          "text": "Foe dat'ede dem ben kari dem dei disi Purim foe da nem foe Pur. Foe dat'ede bikasi foe ala dem woortoe foe da brifi disi, en foe dem sani disi dem ben si abra da tori disi, en sanben kom na dem tapoe,",
+          "sourceParagraphs": [
+            765
+          ]
+        },
+        {
+          "verse": 27,
+          "text": "Dem Djoe ben teki wan besroiti, en dem ben teki dati na demsrefi tapoe en na tapoe dem bakatem pikin nanga ala dem soema disi ben kom moksi nanga dem, dati dem sa hori dem toe dei disi sondro foe misi, so leki dem ben skrifi, na da juisti tem ibri jari;",
+          "sourceParagraphs": [
+            766
+          ]
+        },
+        {
+          "verse": 28,
+          "text": "En dati dem sa membre dem dei disi en hori dem, dem nanga ala dem bakatem pikin, nanga ibri famiri nanga ibri distrikt nanga ibri foto, en dati dem dei foe Purim noiti sa mankeri na mindri foe dem Djoe, en da membre foe dem noiti sa lasi foe dem bakatem pikin.",
+          "sourceParagraphs": [
+            767
+          ]
+        },
+        {
+          "verse": 29,
+          "text": "Dan Ester da koningin, da oemapikin foe Abichaïl, nanga Mordekai da Djoe ben skrifi nanga ala makti foe meki da di foe toe brifi disi foe Purim kom troe.",
+          "sourceParagraphs": [
+            768
+          ]
+        },
+        {
+          "verse": 30,
+          "text": "En a ben seni dem brifi go na ala dem Djoe, na ini dem wan hondro nanga twenti na sebi distrikt foe da kownoekondre foe Ahasveros, nanga woortoe foe vrede nanga waarheid,",
+          "sourceParagraphs": [
+            769
+          ]
+        },
+        {
+          "verse": 31,
+          "text": "Foe seti dem dei foe Purim na da juisti tem, so leki Mordekai da Djoe nanga Ester da koningin ben poti dem, en so leki dem ben komanderi gi demsrefi nanga dem bakatem pikin abrada tem disi dem ben faste en krei.",
+          "sourceParagraphs": [
+            770
+          ]
+        },
+        {
+          "verse": 32,
+          "text": "En da komanderi foe Ester ben seti faste da wroko foe Purim; en dem ben skrifi hem na ini da boekoe.",
+          "sourceParagraphs": [
+            771
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    },
+    {
+      "chapter": 10,
+      "sections": [
+        {
+          "text": "Mordekai jepi dem Djoe",
+          "beforeVerse": 1,
+          "sourceParagraph": 776
+        }
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "text": "En kownoe Ahasveros ben meki ala dem kondre nanga dem eilanti pai lantimoni.",
+          "sourceParagraphs": [
+            777
+          ]
+        },
+        {
+          "verse": 2,
+          "text": "En dem no ben skrifi ala da grani foe Mordekai, nanga dem sani a ben doe nanga hemkrakti nanga hem makti, en fa da kownoe ben poti hem na fesi, na ini dem boekoe foe da historia foe dem kownoe foe Medië nanga Perzië?",
+          "sourceParagraphs": [
+            778
+          ]
+        },
+        {
+          "verse": 3,
+          "text": "Bikasi da Djoe Mordekai ben de da fosiwan na baka kownoe Ahasveros; en a ben abi bigi nem na mindri dem Djoe, en dem hipi foe hem brada ben lobi hem, bikasi a ben soekoe foe doe boen gi hem folkoe, en a ben taki vrede na ala hem bakatem pikin.",
+          "sourceParagraphs": [
+            779
+          ]
+        }
+      ],
+      "notes": [],
+      "preface": []
+    }
+  ]
+}
