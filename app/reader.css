@@ -88,10 +88,10 @@
 .toolbar-navigate:hover{filter:brightness(.97)}
 .toolbar-navigate:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
 .toolbar-navigate span{margin-left:0}
-.study-navigation{display:flex;justify-content:center;margin:-14px auto 24px}
-.study-navigation .toolbar-navigate{min-height:62px;padding:14px 25px;font-size:21px;max-width:100%;white-space:normal}
+
+
 .navigation-book-icon{font-size:25px;line-height:1}
-@media(max-width:760px){.toolbar-navigate{max-width:none;min-height:48px;font-size:15px;padding:10px 14px;white-space:normal}.study-navigation{margin:-12px auto 22px}.study-navigation .toolbar-navigate{font-size:18px;min-height:54px;padding:11px 17px}}
+@media(max-width:760px){.toolbar-navigate{max-width:none;min-height:48px;font-size:15px;padding:10px 14px;white-space:normal}}
 
 /* Identify every Matthew Henry Scripture quotation while scrolling. */
 .henry-scripture-reference{font:700 15px/1.4 system-ui,sans-serif;color:var(--accent);letter-spacing:.01em;margin:0 0 12px;padding:0 0 10px;border-bottom:1px solid currentColor;white-space:normal}
@@ -147,3 +147,33 @@
 }
 .xref-toggle[aria-pressed="false"] { opacity: .6; }
 .xref-toggle[aria-pressed="true"] { font-weight: 700; }
+
+/* Keep the section tabs and passage controls aligned with the site header. */
+.resource-tabs, .reader-top {
+  max-width: 1600px;
+  margin-inline: auto;
+  padding-inline: 38px;
+}
+.reader-top {
+  align-items: center;
+  padding-block: 14px;
+}
+.reader-top > .toolbar-navigate { flex: 0 0 auto; }
+.reader-top .reader-tools { margin-inline-start: auto; }
+.reading { padding-top: 36px; }
+.reading-header h1 { margin-block: 10px 14px; }
+.heading-rule { margin-bottom: 18px; }
+.translation-caption { margin-block: 0 16px; }
+.xref-toggle { border-color: var(--border); }
+.xref-toggle[aria-pressed="true"] {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+@media (max-width: 1050px) {
+  .resource-tabs, .reader-top { padding-inline: 22px; }
+}
+@media (max-width: 760px) {
+  .resource-tabs, .reader-top { padding-inline: 16px; }
+  .reader-top .reader-tools { margin-inline-start: 0; }
+  .reading { padding-top: 26px; }
+}
