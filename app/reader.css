@@ -127,3 +127,23 @@
 .xref-item p { margin: .45rem 0; }
 .xref-credit { font-size: .8rem; }
 .xref-credit a { color: inherit; }
+
+.xref-trigger {
+  border: 0;
+  margin-inline: .12em;
+  padding: .15em .3em;
+  opacity: .6;
+}
+.xref-trigger:hover, .xref-trigger:focus-visible { opacity: 1; }
+.xref-toggle {
+  font: inherit;
+  font-size: .85rem;
+  color: inherit;
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: .5rem;
+  padding: .35rem .6rem;
+  cursor: pointer;
+}
+.xref-toggle[aria-pressed="false"] { opacity: .6; }
+.xref-toggle[aria-pressed="true"] { font-weight: 700; }
